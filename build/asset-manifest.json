@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d119d60d.css",
+    "main.js": "/static/js/main.8252d0ff.js",
+    "static/media/anh copy.jpg": "/static/media/anh copy.7aab9531f7c82eaeeaef.jpg",
+    "static/media/z6360018199423_jpg": "/static/media/z6360018199423_c3e83ec9f1f3ded7c8bafb0135d27a8e.6216a632048384c5ca77.jpg",
+    "static/media/logo.png": "/static/media/logo.ea748b175d3c9361d87d.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.d119d60d.css",
+    "static/js/main.8252d0ff.js"
+  ]
+}
